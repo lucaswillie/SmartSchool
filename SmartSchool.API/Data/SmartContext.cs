@@ -71,6 +71,7 @@ namespace SmartSchool.API.Data
                     new AlunoDisciplina() {AlunoId= 5, DisciplinaId= 2},
                     new AlunoDisciplina() {AlunoId= 5, DisciplinaId= 3},
                     new AlunoDisciplina() {AlunoId= 5, DisciplinaId= 4},
+                    new AlunoDisciplina() {AlunoId= 5, DisciplinaId= 5},
 
                 });
         }
